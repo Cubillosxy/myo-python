@@ -54,6 +54,7 @@ __Requirements__
 __Projects that use myo-python__
 
 - [Myo Matlab](https://github.com/yijuilee/myomatlab)
+- [MYO+PYTHON+BEBOP](https://github.com/Cubillosxy/MYO-PYTHON-BEBOP)
 
   [docs]: http://myo-python.readthedocs.org/en/latest/index.html
 
